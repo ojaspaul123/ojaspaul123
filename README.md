@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌱I'm currently learning Pandas Software with my strong background in math and computer science, I’ll probably find the library’s emphasis on structured data and vectorized operations comes quite naturally.<br>
-📊Since I'm also learning Microsoft Excel with dashboards, I’ll see how these same principles of organizing and visualizing data apply across tools — making analysis both intuitive and powerful.<br>
+🌱I'm currently learning Pandas libraries (Seaborn,polars) with my strong background in math and computer science, I’ll probably find the library’s emphasis on structured data and vectorized operations comes quite naturally.<br>
+📊Since I'm also learning PowerBI dashboards, I’ll see how these same principles of organizing and visualizing data apply across tools — making analysis both intuitive and powerful.<br>
 
 
 ## 🌐 Socials:
