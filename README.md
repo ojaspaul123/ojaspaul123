@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌱I'm currently learning Pandas libraries (Seaborn,polars) with my strong background in math and computer science, I’ll probably find the library’s emphasis on structured data and vectorized operations comes quite naturally.<br>
-📊Since I'm also learning PowerBI dashboards, I’ll see how these same principles of organizing and visualizing data apply across tools — making analysis both intuitive and powerful.<br>
+⭐ Currently I am learning Scikit-Learn's cross-validation methods and SciPy's signal processing capabilities to build more accurate predictive models.<br>
+📌 Since I'm also learning, mastering window functions, CTEs, and query optimization is where SQL shifts from basic querying to production-grade data engineering.<br>
 
 
 ## 🌐 Socials:
