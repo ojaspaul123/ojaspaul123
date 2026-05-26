@@ -1,6 +1,6 @@
 # 💫 About Me:
-⭐ Currently I am learning Scikit-Learn's cross-validation methods and SciPy's signal processing capabilities to build more accurate predictive models.<br>
-📌 Since I'm also learning, mastering window functions, CTEs, and query optimization is where SQL shifts from basic querying to production-grade data engineering.<br>
+🧠 Deep Learning Explorer — Building from the ground up: neural networks, backpropagation, optimization, CNNs, and cutting-edge AI concepts.<br>
+⚡ Sharpening DSA Fundamentals — Solving problems daily to strengthen algorithmic thinking and prep for technical interviews.<br>
 
 
 ## 🌐 Socials:
